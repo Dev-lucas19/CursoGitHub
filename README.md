@@ -4,23 +4,23 @@ Teste de códigos em Python, utilizando ferramentas do GitHub, a partir de um de
 
 ## 1. Concatenando dados
 
-## Um código que recebesse dois dados diferentes do usuário para concatena-los em uma única string.
+Um código que recebesse dois dados diferentes do usuário para concatena-los em uma única string.
 
 ## 2. Calculando média de notas
 
-## Um código capaz de calcular a média de três notas fornecidas na entrada pelo usuário, utilizando operadores aritméticos.
+Um código capaz de calcular a média de três notas fornecidas na entrada pelo usuário, utilizando operadores aritméticos.
 
 ## 3. Operações matemáticas simples
 
-## Um código que solicita a entrada de dois números para depois realizar uma operação simples entre eles.
+Um código que solicita a entrada de dois números para depois realizar uma operação simples entre eles.
 
 ## 4. Verificando números pares e ímpares
 
-## Um código que recebe um número inteiro e verifica se ele é par ou ímpar, a partir de condicionais.
+Um código que recebe um número inteiro e verifica se ele é par ou ímpar, a partir de condicionais.
 
 ## 5. Repetindo textos
 
-## Um código simples que solicita uma string e um número inteiro como entrada. Depois retorna a string repetida o número de vezes informado.
+Um código simples que solicita uma string e um número inteiro como entrada. Depois retorna a string repetida o número de vezes informado.
 
 ## 6. Verificando palíndromos
 
